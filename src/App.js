@@ -5,8 +5,10 @@ import Welcome from './Welcome';
 function App() {
   return (
     <>
-      <Welcome firstname='Amayas' lastname='Tamarat' />
-      <Time />
+      <div className='page'>
+        <Welcome firstname='Amayas' lastname='Tamarat' />
+        <Time />
+      </div>
     </>
 
   );

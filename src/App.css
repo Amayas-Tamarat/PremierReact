@@ -1,0 +1,16 @@
+.page{
+    text-align: center;
+}
+
+.bg-color{
+    background-color: black;
+}
+
+.text-test{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.img-bg{
+    background-image: url(./zaWarudo.gif);
+}

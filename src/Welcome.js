@@ -5,9 +5,9 @@ function Welcome(props) {
         <>
             <section>
                 <h1>Welcome {props.firstname} {props.lastname}  !  </h1>
-                <p>huh</p>
             </section>
             <Click />
+
         </>
     );
 }
